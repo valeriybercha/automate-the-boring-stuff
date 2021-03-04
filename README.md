@@ -2,4 +2,4 @@
 
 My solutions to [Automate the Boring Stuff with Python book](http://automatetheboringstuff.com/)
 
-* Chapter 3 (Functions) Poject - [The Collatz Sequence]()
+* Chapter 3 (Functions) Poject - [The Collatz Sequence](https://github.com/valeriybercha/automate-the-boring-stuff/blob/main/collatz-sequence/collatz.py)
