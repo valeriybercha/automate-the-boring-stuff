@@ -5,7 +5,7 @@
 
 def friends_birthdays():
     
-    # Crating a birtday dictionary
+    # Creating a birtday dictionary
     birthday = {"John": "Dec 12", "Alice": "Sep 3", "Steve": "Jan 22", "Harry": "Aug 2", "Bob": "Oct 15"}
 
     while True:
