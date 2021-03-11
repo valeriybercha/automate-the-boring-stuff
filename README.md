@@ -10,3 +10,4 @@ My solutions to [Automate the Boring Stuff with Python](http://automatetheboring
   * [Character Picture Grid](https://github.com/valeriybercha/automate-the-boring-stuff/blob/main/character-picture-grid/character-picture-grid.py)
 * Chapter 5 (Dictionaries and Structuring Data) Pojects: 
   * [Chess Dictionary Validator](https://github.com/valeriybercha/automate-the-boring-stuff/blob/main/chess-dictionary-validator/chess-dictionary-validator.py)
+  * [Fantasy Game Inventory](https://github.com/valeriybercha/automate-the-boring-stuff/blob/main/fantasy-game-inventory/fantasy-game-inventory.py)
