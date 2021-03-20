@@ -17,8 +17,7 @@ def point_adder():
     clipboard_text_list = []
     for row in clipboard_text.split("\n"):
         clipboard_text_list.append("* " + row)
-
-    
+ 
     # Formatting list to string and copy text to clipboard
     formatted_text = "\n".join(clipboard_text_list)
     try:
