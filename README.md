@@ -11,3 +11,5 @@ My solutions to [Automate the Boring Stuff with Python](http://automatetheboring
 * Chapter 5 (Dictionaries and Structuring Data) Pojects: 
   * [Chess Dictionary Validator](https://github.com/valeriybercha/automate-the-boring-stuff/blob/main/chess-dictionary-validator/chess-dictionary-validator.py)
   * [Fantasy Game Inventory](https://github.com/valeriybercha/automate-the-boring-stuff/blob/main/fantasy-game-inventory/fantasy-game-inventory.py)
+* Chapter 6 (Manipulating Strings) Pojects: 
+  * [Table Printer](https://github.com/valeriybercha/automate-the-boring-stuff/blob/main/table-printer/table-printer.py)
