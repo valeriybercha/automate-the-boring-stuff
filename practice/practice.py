@@ -110,3 +110,23 @@ def printPicnic(itemDict, leftWidth, rightWidth):
         print(k.ljust(leftWidth, ".") + str(v).rjust(rightWidth))
 
 picnicItems = {"sandwiches": 4, "apples": 12, "cups": 4, "cookies": 8000}
+
+
+# Regular expressions
+
+def isPhoneNumber(text):
+    result = 0
+    if text.split("-")[0].isdigit() and len(text.split("-")[0]) == 3:
+        result += 1
+    if text.split("-")[1].isdigit() and len(text.split("-")[1]) == 3:
+        result += 1
+    if text.split("-")[2].isdigit() and len(text.split("-")[2]) == 4:
+        result += 1
+    if text[3] == "-" and text[7] == "-":
+        result += 1
+    if len(text) == 12:
+        result += 1
+    if result == 5:
+        return "It is a phone number"
+    else:
+        return "It is not a phone number"
